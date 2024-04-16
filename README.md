@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть тут
 
-[Моя первая раблта на HTML & CSS](https://blrwarrior1.github.io/resume/)
+[Моя первая работа на HTML & CSS](https://blrwarrior1.github.io/resume/)
